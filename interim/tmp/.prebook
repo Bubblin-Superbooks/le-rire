@@ -1,57 +1,5 @@
 [
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Laughter"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "An Essay On The Meaning Of The Comic"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Henri Bergson"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Member Of The Institute Professor At The College De France"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "Authorised Translation"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "By Cloudesley Brereton L. Es L. (Paris), M.a. (Cantab  )"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "AND FRED ROTHWELL B.A. (LONDON)"
-  },
-  {
     "tag": "h3",
     "innerHtml": "Translators' Preface"
   },
@@ -64,40 +12,8 @@
     "innerHtml": "The book has been highly successful in France, where it is in its seventh edition. It has been translated into Russian, Polish, and Swedish. German and Hungarian translations are under preparation. Its success is due partly to the novelty of the explanation offered of the comic, and partly also to the fact that the author incidentally discusses questions of still greater interest and importance. Thus, one of the best known and most frequently quoted passages of the book is that portion of the last chapter in which the author outlines a general theory of art."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "C. B. F. R."
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
     "tag": "p",
-    "innerHtml": "###"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "THE COMIC IN GENERAL—THE COMIC ELEMENT IN FORMS AND MOVEMENTS—EXPANSIVE FORCE OF THE COMIC"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "###"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "The Comic Element In Situations And The Comic Element In Words"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "###"
+    "innerHtml": "\\–C. B. F. R."
   },
   {
     "tag": "hr",
@@ -185,7 +101,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "What life and society require of each of us is a constantly alert attention that discerns the outlines of the present situation, together with a certain elasticity of mind and body to enable us to adapt ourselves in consequence. TENSION and ELASTICITY are two forces, mutually complementary, which life brings into play. If these two forces are lacking in the body to any considerable extent, we have sickness and infirmity and accidents of every kind. If they are lacking in the mind, we find every degree of mental deficiency, every variety of insanity. Finally, if they are lacking in the character, we have cases of the gravest inadaptability to social life, which are the sources of misery and at times the causes of crime. Once these elements of inferiority that affect the serious side of existence are removed—and they tend to eliminate themselves in what has been called the struggle for life—the person can live, and that in common with other persons. But society asks for something more; it is not satisfied with simply living, it insists on living well. What it now has to dread is that each one of us, content with paying attention to what affects the essentials of life, will, so far as the rest is concerned, give way to the easy automatism of acquired habits. Another thing it must fear is that the members of whom it is made up, instead of aiming after an increasingly delicate adjustment of wills which will fit more and more perfectly into one another, will confine themselves to respecting simply the fundamental conditions of this adjustment: a cut-and-dried agreement among the persons will not satisfy it, it insists on a constant striving after reciprocal adaptation. Society will therefore be suspicious of all INELASTICITY of character, of mind and even of body, because it is the possible sign of a slumbering activity as well as of an activity with separatist tendencies, that inclines to swerve from the common centre round which society gravitates: in short, because it is the sign of an eccentricity. And yet, society cannot intervene at this stage by material repression, since it is not affected in a material fashion. It is confronted with something that makes it uneasy, but only as a symptom—scarcely a threat, at the very most a gesture. A gesture, therefore, will be its reply. Laughter must be something of this kind, a sort of SOCIAL GESTURE. By the fear which it inspires, it restrains eccentricity, keeps constantly awake and in mutual contact certain activities of a secondary order which might retire into their shell and go to sleep, and, in short, softens down whatever the surface of the social body may retain of mechanical inelasticity. Laughter, then, does not belong to the province of esthetics alone, since unconsciously (and even immorally in many particular instances it pursues a utilitarian aim of general improvement. And yet there is something esthetic about it, since the comic comes into being just when society and the individual, freed from the worry of self-preservation, begin to regard themselves as works of art. In a word, if a circle be drawn round those actions and dispositions—implied in individual or social life—to which their natural consequences bring their own penalties, there remains outside this sphere of emotion and struggle—and within a neutral zone in which man simply exposes himself to man's curiosity—a certain rigidity of body, mind and character, that society would still like to get rid of in order to obtain from its members the greatest possible degree of elasticity and sociability. This rigidity is the comic, and laughter is its corrective.)"
+    "innerHtml": "What life and society require of each of us is a constantly alert attention that discerns the outlines of the present situation, together with a certain elasticity of mind and body to enable us to adapt ourselves in consequence. TENSION and ELASTICITY are two forces, mutually complementary, which life brings into play. If these two forces are lacking in the body to any considerable extent, we have sickness and infirmity and accidents of every kind. If they are lacking in the mind, we find every degree of mental deficiency, every variety of insanity. Finally, if they are lacking in the character, we have cases of the gravest inadaptability to social life, which are the sources of misery and at times the causes of crime. Once these elements of inferiority that affect the serious side of existence are removed—and they tend to eliminate themselves in what has been called the struggle for life—the person can live, and that in common with other persons. But society asks for something more; it is not satisfied with simply living, it insists on living well. What it now has to dread is that each one of us, content with paying attention to what affects the essentials of life, will, so far as the rest is concerned, give way to the easy automatism of acquired habits. Another thing it must fear is that the members of whom it is made up, instead of aiming after an increasingly delicate adjustment of wills which will fit more and more perfectly into one another, will confine themselves to respecting simply the fundamental conditions of this adjustment: a cut-and-dried agreement among the persons will not satisfy it, it insists on a constant striving after reciprocal adaptation. Society will therefore be suspicious of all INELASTICITY of character, of mind and even of body, because it is the possible sign of a slumbering activity as well as of an activity with separatist tendencies, that inclines to swerve from the common centre round which society gravitates: in short, because it is the sign of an eccentricity. And yet, society cannot intervene at this stage by material repression, since it is not affected in a material fashion. It is confronted with something that makes it uneasy, but only as a symptom—scarcely a threat, at the very most a gesture. A gesture, therefore, will be its reply. Laughter must be something of this kind, a sort of SOCIAL GESTURE. By the fear which it inspires, it restrains eccentricity, keeps constantly awake and in mutual contact certain activities of a secondary order which might retire into their shell and go to sleep, and, in short, softens down whatever the surface of the social body may retain of mechanical inelasticity. Laughter, then, does not belong to the province of esthetics alone, since unconsciously (and even immorally in many particular instances it pursues a utilitarian aim of general improvement. And yet there is something esthetic about it, since the comic comes into being just when society and the individual, freed from the worry of self-preservation, begin to regard themselves as works of art. In a word, if a circle be drawn round those actions and dispositions—implied in individual or social life—to which their natural consequences bring their own penalties, there remains outside this sphere of emotion and struggle—and within a neutral zone in which man simply exposes himself to man's curiosity—a certain rigidity of body, mind and character, that society would still like to get rid of in order to obtain from its members the greatest possible degree of elasticity and sociability. This rigidity is the comic, and laughter is its corrective.  )"
   },
   {
     "tag": "p",
@@ -589,7 +505,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Moreover, the person implicated is not always the speaker. Here it seems as though we should draw an important distinction between the WITTY (SPIRITUEL and the COMIC. A word is said to be comic when it makes us laugh at the person who utters it, and witty when it makes us laugh either at a third party or at ourselves. But in most cases we can hardly make up our minds whether the word is comic or witty. All that we can say is that it is laughable.)"
+    "innerHtml": "Moreover, the person implicated is not always the speaker. Here it seems as though we should draw an important distinction between the WITTY (SPIRITUEL and the COMIC. A word is said to be comic when it makes us laugh at the person who utters it, and witty when it makes us laugh either at a third party or at ourselves. But in most cases we can hardly make up our minds whether the word is comic or witty. All that we can say is that it is laughable.  )"
   },
   {
     "tag": "p",
@@ -613,11 +529,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Let us apply this method to a classic example. \"Your chest hurts me\" (J'AI MAL A VOTRE POITRINE wrote Mme. de Sevigne to her ailing daughter—clearly a witty saying. If our theory is correct, we need only lay stress upon the saying, enlarge and magnify it, and we shall see it expand into a comic scene. Now, we find this very scene, ready made, in the AMOUR MEDECIN of Moliere. The sham doctor, Clitandre, who has been summoned to attend Sganarelle's daughter, contents himself with feeling Sganarelle's own pulse, whereupon, relying on the sympathy there must be between father and daughter, he unhesitatingly concludes: \"Your daughter is very ill!\" Here we have the transition from the witty to the comical. To complete our analysis, then, all we have to do is to discover what there is comical in the idea of giving a diagnosis of the child after sounding the father or the mother. Well, we know that one essential form of comic fancy lies in picturing to ourselves a living person as a kind of jointed dancing-doll, and that frequently, with the object of inducing us to form this mental picture, we are shown two or more persons speaking and acting as though attached to one another by invisible strings. Is not this the idea here suggested when we are led to materialise, so to speak, the sympathy we postulate as existing between father and daughter?)"
+    "innerHtml": "Let us apply this method to a classic example. \"Your chest hurts me\" (J'AI MAL A VOTRE POITRINE wrote Mme. de Sevigne to her ailing daughter—clearly a witty saying. If our theory is correct, we need only lay stress upon the saying, enlarge and magnify it, and we shall see it expand into a comic scene. Now, we find this very scene, ready made, in the AMOUR MEDECIN of Moliere. The sham doctor, Clitandre, who has been summoned to attend Sganarelle's daughter, contents himself with feeling Sganarelle's own pulse, whereupon, relying on the sympathy there must be between father and daughter, he unhesitatingly concludes: \"Your daughter is very ill!\" Here we have the transition from the witty to the comical. To complete our analysis, then, all we have to do is to discover what there is comical in the idea of giving a diagnosis of the child after sounding the father or the mother. Well, we know that one essential form of comic fancy lies in picturing to ourselves a living person as a kind of jointed dancing-doll, and that frequently, with the object of inducing us to form this mental picture, we are shown two or more persons speaking and acting as though attached to one another by invisible strings. Is not this the idea here suggested when we are led to materialise, so to speak, the sympathy we postulate as existing between father and daughter?  )"
   },
   {
     "tag": "p",
-    "innerHtml": "We now see how it is that writers on wit have perforce confined themselves to commenting on the extraordinary complexity of the things denoted by the term without ever succeeding in defining it. There are many ways of being witty, almost as many as there are of being the reverse. How can we detect what they have in common with one another, unless we first determine the general relationship between the witty and the comic? Once, however, this relationship is cleared up, everything is plain sailing. We then find the same connection between the comic and the witty as exists between a regular scene and the fugitive suggestion of a possible one. Hence, however numerous the forms assumed by the comic, wit will possess an equal number of corresponding varieties. So that the comic, in all its forms, is what should be defined first, by discovering (a task which is already quite difficult enough the clue that leads from one form to the other. By that very operation wit will have been analysed, and will then appear as nothing more than the comic in a highly volatile state. To follow the opposite plan, however, and attempt directly to evolve a formula for wit, would be courting certain failure. What should we think of a chemist who, having ever so many jars of a certain substance in his laboratory, would prefer getting that substance from the atmosphere, in which merely infinitesimal traces of its vapour are to be found?)"
+    "innerHtml": "We now see how it is that writers on wit have perforce confined themselves to commenting on the extraordinary complexity of the things denoted by the term without ever succeeding in defining it. There are many ways of being witty, almost as many as there are of being the reverse. How can we detect what they have in common with one another, unless we first determine the general relationship between the witty and the comic? Once, however, this relationship is cleared up, everything is plain sailing. We then find the same connection between the comic and the witty as exists between a regular scene and the fugitive suggestion of a possible one. Hence, however numerous the forms assumed by the comic, wit will possess an equal number of corresponding varieties. So that the comic, in all its forms, is what should be defined first, by discovering (a task which is already quite difficult enough the clue that leads from one form to the other. By that very operation wit will have been analysed, and will then appear as nothing more than the comic in a highly volatile state. To follow the opposite plan, however, and attempt directly to evolve a formula for wit, would be courting certain failure. What should we think of a chemist who, having ever so many jars of a certain substance in his laboratory, would prefer getting that substance from the atmosphere, in which merely infinitesimal traces of its vapour are to be found?  )"
   },
   {
     "tag": "p",
@@ -645,7 +561,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "In the phrase, \"Tous les arts sont freres\" (all the arts are brothers), the word \"frere\" (brother is used metaphorically to indicate a more or less striking resemblance. The word is so often used in this way, that when we hear it we do not think of the concrete, the material connection implied in every relationship. We should notice it more if we were told that \"Tous les arts sont cousins,\" for the word \"cousin\" is not so often employed in a figurative sense; that is why the word here already assumes a slight tinge of the comic. But let us go further still, and suppose that our attention is attracted to the material side of the metaphor by the choice of a relationship which is incompatible with the gender of the two words composing the metaphorical expression: we get a laughable result. Such is the well-known saying, also attributed to M. Prudhomme, \"Tous les arts (masculine) sont soeurs (feminine).\" \"He is always running after a joke,\" was said in Boufflers' presence regarding a very conceited fellow. Had Boufflers replied, \"He won't catch it,\" that would have been the beginning of a witty saying, though nothing more than the beginning, for the word \"catch\" is interpreted figuratively almost as often as the word \"run\"; nor does it compel us more strongly than the latter to materialise the image of two runners, the one at the heels of the other. In order that the rejoinder may appear to be a thoroughly witty one, we must borrow from the language of sport an expression so vivid and concrete that we cannot refrain from witnessing the race in good earnest. This is what Boufflers does when he retorts, \"I'll back the joke!\")"
+    "innerHtml": "In the phrase, \"Tous les arts sont freres\" (all the arts are brothers), the word \"frere\" (brother is used metaphorically to indicate a more or less striking resemblance. The word is so often used in this way, that when we hear it we do not think of the concrete, the material connection implied in every relationship. We should notice it more if we were told that \"Tous les arts sont cousins,\" for the word \"cousin\" is not so often employed in a figurative sense; that is why the word here already assumes a slight tinge of the comic. But let us go further still, and suppose that our attention is attracted to the material side of the metaphor by the choice of a relationship which is incompatible with the gender of the two words composing the metaphorical expression: we get a laughable result. Such is the well-known saying, also attributed to M. Prudhomme, \"Tous les arts (masculine sont soeurs (feminine).\" \"He is always running after a joke,\" was said in Boufflers' presence regarding a very conceited fellow. Had Boufflers replied, \"He won't catch it,\" that would have been the beginning of a witty saying, though nothing more than the beginning, for the word \"catch\" is interpreted figuratively almost as often as the word \"run\"; nor does it compel us more strongly than the latter to materialise the image of two runners, the one at the heels of the other. In order that the rejoinder may appear to be a thoroughly witty one, we must borrow from the language of sport an expression so vivid and concrete that we cannot refrain from witnessing the race in good earnest. This is what Boufflers does when he retorts, \"I'll back the joke!\" ) )"
   },
   {
     "tag": "p",
@@ -1068,8 +984,8 @@
     "innerHtml": "Here, as elsewhere, nature has utilised evil with a view to good. It is more especially the good that has engaged our attention throughout this work. We have seen that the more society improves, the more plastic is the adaptability it obtains from its members; while the greater the tendency towards increasing stability below, the more does it force to the surface the disturbing elements inseparable from so vast a bulk; and thus laughter performs a useful function by emphasising the form of these significant undulations. Such is also the truceless warfare of the waves on the surface of the sea, whilst profound peace reigns in the depths below. The billows clash and collide with each other, as they strive to find their level. A fringe of snow-white foam, feathery and frolicsome, follows their changing outlines. From time to time, the receding wave leaves behind a remnant of foam on the sandy beach. The child, who plays hard by, picks up a handful, and, the next moment, is astonished to find that nothing remains in his grasp but a few drops of water, water that is far more brackish, far more bitter than that of the wave which brought it. Laughter comes into being in the self-same fashion. It indicates a slight revolt on the surface of social life. It instantly adopts the changing forms of the disturbance. It, also, is afroth with a saline base. Like froth, it sparkles. It is gaiety itself. But the philosopher who gathers a handful to taste may find that the substance is scanty, and the after-taste bitter."
   },
   {
-    "tag": "p",
-    "innerHtml": "[THE END]"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h3",
